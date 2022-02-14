@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DhineshPV
-- 👀 I’m interested in Software Development 
-- 🌱 I’m specilized in Front End (Reactjs)
-- 📫 How to reach me 
+- 👀 Software Developer specilized in Front End (Reactjs)
+- 📫 Reach out me 
   * 📩 dhineshvijayan05@gmail.com
   * 📲 9809714478
   * [LinkedIn](https://www.linkedin.com/in/Dhinesh986)
